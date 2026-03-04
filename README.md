@@ -26,26 +26,6 @@ The CEO, **Mr. Ayodeji Chukwuma**, and CHRO, **Mr. Yunus Shofoluwe**, needed act
 - Compliance with a new **$90,000 minimum salary** regulation
 - Equitable performance rating practices
 - Fair and transparent bonus allocation
-
----
-
-## 📁 Repository Structure
-
-```
-palmora-hr-analysis/
-│
-├── 📊 Palmoria_Group_Analysis.pbix       # Power BI dashboard file
-├── 📄 Palmoria_Stakeholder_Report.docx   # Executive stakeholder report
-├── 📁 data/
-│   ├── hr_data.csv                      # Cleaned employee dataset
-│   └── bonus_rules.csv                  # Bonus allocation rules by rating
-├── 📁 screenshots/
-│   ├── dashboard_overview.png
-│   ├── gender_ratings.png
-│   └── salary_compliance.png
-└── README.md
-```
-
 ---
 
 ## 🛠 Tools & Technologies
@@ -72,7 +52,6 @@ Before analysis, the following transformations were applied:
 ## 📈 Dashboard Pages
 
 ### Page 1 — Salary & Compensation Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
 <img width="472" height="260" alt="Screenshot 2026-03-04 115440" src="https://github.com/user-attachments/assets/1b580f04-322a-4b48-b397-5df5d96dee67" />
 
 Key metrics displayed:
@@ -86,7 +65,6 @@ Key metrics displayed:
 ---
 
 ### Page 2 — Gender & Workforce Distribution
-![Gender Ratings](screenshots/gender_ratings.png)
 <img width="471" height="266" alt="Screenshot 2026-03-04 115408" src="https://github.com/user-attachments/assets/9fae8e15-b937-4562-becb-270fa76da80b" />
 
 Key metrics displayed:
@@ -99,7 +77,6 @@ Key metrics displayed:
 ---
 
 ### Page 3 — Performance Ratings & Bonus Analysis
-![Salary Compliance](screenshots/salary_compliance.png)
 <img width="466" height="257" alt="Screenshot 2026-03-04 115314" src="https://github.com/user-attachments/assets/de22be0b-3198-4920-9172-777ff6e82600" />
 
 Key metrics displayed:
@@ -212,10 +189,9 @@ Key metrics displayed:
 
 ---
 
-## 👤 Author
-
+## 👤 Author 
+**Victor Umeh**
 **HR Analytics Consultant**  
-*Commissioned by Palmora Group CHRO — Mr. Yunus Shofoluwe*  
 *March 2026*
 
 ---
